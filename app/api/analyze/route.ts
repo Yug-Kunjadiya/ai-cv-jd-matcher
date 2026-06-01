@@ -121,11 +121,40 @@ export async function POST(request: Request) {
 
     // 5. Compute Local Embedding Similarity matches & Citations
     const allJdSkills = [...jdDetails.requiredSkills, ...jdDetails.preferredSkills];
-    const embeddingSkillMatches = await matchCVAndJDSkills(redactionResult.redactedText, allJdSkills);
+    let embeddingSkillMatches: any[] = [];
+    let semanticData = { semanticScore: 0, matchedSkills: [] as string[], missingSkills: [] as string[] };
+    let confidence = 0;
 
-    // Compute overall semantic similarity score and matched vs missing skills using local embeddings
-    const semanticData = await calculateSemanticScore(redactionResult.redactedText, jdText);
-    const confidence = Math.round((semanticData.semanticScore * 0.7 + (semanticData.matchedSkills.length / Math.max(1, semanticData.matchedSkills.length + semanticData.missingSkills.length)) * 0.3) * 100);
+    try {
+      embeddingSkillMatches = await matchCVAndJDSkills(redactionResult.redactedText, allJdSkills);
+    } catch (err) {
+      console.error("Failed to match CV and JD skills (falling back to lightweight):", err);
+      const cvLower = redactionResult.redactedText.toLowerCase();
+      embeddingSkillMatches = allJdSkills.map(skill => ({
+        skill,
+        score: cvLower.includes(skill.toLowerCase()) ? 90 : 15,
+        evidence: cvLower.includes(skill.toLowerCase())
+          ? `Found "${skill}" in CV.`
+          : `No mention of "${skill}" found in CV.`
+      }));
+    }
+
+    try {
+      semanticData = await calculateSemanticScore(redactionResult.redactedText, jdText);
+      confidence = Math.round((semanticData.semanticScore * 0.7 + (semanticData.matchedSkills.length / Math.max(1, semanticData.matchedSkills.length + semanticData.missingSkills.length)) * 0.3) * 100);
+    } catch (err) {
+      console.error("Failed to calculate semantic score (falling back to lightweight):", err);
+      const cvLower = redactionResult.redactedText.toLowerCase();
+      const matched = allJdSkills.filter(s => cvLower.includes(s.toLowerCase()));
+      const missing = allJdSkills.filter(s => !cvLower.includes(s.toLowerCase()));
+      const score = allJdSkills.length > 0 ? matched.length / allJdSkills.length : 0;
+      semanticData = {
+        semanticScore: Math.round(score * 100) / 100,
+        matchedSkills: matched.map(s => s.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ')),
+        missingSkills: missing.map(s => s.split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' '))
+      };
+      confidence = Math.round((semanticData.semanticScore * 0.7 + (semanticData.matchedSkills.length / Math.max(1, semanticData.matchedSkills.length + semanticData.missingSkills.length)) * 0.3) * 100);
+    }
 
     // 6. Structured Gemini Reasoning
     const matchAnalysis = await analyzeMatchWithGemini(
