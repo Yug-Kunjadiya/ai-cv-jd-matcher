@@ -1,0 +1,20 @@
+Sophia Patel
+Email: sophia.patel@cognitive.com | Phone: +971 56 394 8102
+Dubai, UAE | Visa: Requires Sponsorship
+DOB: 14/05/1994 | Passport: S19283746 | Emirates ID: 784-1994-2918374-6
+
+Professional Summary:
+AI Software Engineer with 6 years experience. Expert in Python backend systems, PyTorch modeling, and deploying Large Language Models (LLMs) inside RAG systems.
+
+Skills:
+Python, PyTorch, NLP, LLMs, Vector Databases, LangChain, HuggingFace Transformers, Git, Docker, API Integration, SQL, Next.js.
+
+Experience:
+- Senior AI Developer at Cognition DXB (Mar 2022 - Present):
+  * Optimized LLM fine-tuning pipelines using HuggingFace library.
+  * Integrated vector search indexes with Next.js dashboards.
+- Python Backend Developer at Careem (Jan 2020 - Feb 2022):
+  * Designed Python data-processing pipelines.
+
+Education:
+- M.Sc. Data Science | Heriot-Watt University Dubai (2016 - 2018)

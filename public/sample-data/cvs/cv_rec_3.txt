@@ -1,0 +1,17 @@
+Rahul Mehta
+Email: rahul.mehta@node.dev | Phone: 052-192-3847
+Abu Dhabi, UAE | Visa Status: Requires Sponsorship
+DOB: 19/05/1995 | Passport: R92837164 | Emirates ID: 784-1995-2819304-6
+
+Summary:
+Backend Node.js developer with 5 years experience. Interested in changing career path into HR/Sourcing.
+
+Skills:
+Node.js, Express, MongoDB, JavaScript, SQL, API Development.
+
+Experience:
+- Backend Engineer at TechSolutions (Sep 2021 - Present):
+  * Built database integrations and APIs.
+
+Education:
+- B.Sc. Computer Science | BITS Pilani Dubai (2015 - 2019)

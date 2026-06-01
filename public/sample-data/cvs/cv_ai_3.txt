@@ -1,0 +1,17 @@
+Tarek Refaat
+Email: tarek.r@gulfweb.com | Phone: 055-384-9182
+Abu Dhabi, UAE | Visa Status: UAE Employment Visa (Active)
+DOB: 05/06/1997 | Passport: T19283746 | Emirates ID: 784-1997-2918374-1
+
+Summary:
+Web developer with 4 years of experience building React interfaces and Node APIs. No prior machine learning experience.
+
+Skills:
+React, Node.js, Express, MongoDB, JavaScript, HTML, CSS, Git.
+
+Experience:
+- MERN Developer at GulfWeb (Jan 2022 - Present):
+  * Built frontend forms and Node endpoints.
+
+Education:
+- B.Sc. Software Engineering | Abu Dhabi University (2017 - 2021)

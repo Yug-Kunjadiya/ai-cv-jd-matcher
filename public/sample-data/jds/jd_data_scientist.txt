@@ -1,0 +1,14 @@
+Role: Data Scientist
+Location: Abu Dhabi, UAE
+Experience: 4+ years
+
+Join our analytics team to build advanced prediction models.
+Required Skills: Python, SQL, Machine Learning, Pandas, Scikit-learn, Statistics.
+Preferred Skills: PyTorch, Tableau, Docker, Git, Cloud Data Warehouses.
+Visa Preference: Open. Residency sponsorship available.
+Seniority Level: Senior.
+
+Key Responsibilities:
+- Clean and analyze structured/unstructured dataset pipelines.
+- Build, validate, and deploy statistical and Machine Learning models.
+- Present data insights to senior stakeholders.

@@ -1,0 +1,17 @@
+John Miller
+Email: john.miller@code.dev | Phone: +971 50 928 3741
+Sharjah, UAE | Visa: Requires Sponsorship
+DOB: 09/09/1997 | Passport: M18273645 | Emirates ID: 784-1997-2839182-3
+
+Summary:
+Frontend developer specializing in React and styling frameworks. Wants to enter Data Science.
+
+Skills:
+React, JavaScript, HTML, CSS, Tailwind CSS, Git, Basic Python.
+
+Experience:
+- Frontend Engineer at PixelWeb (Sep 2023 - Present):
+  * Styled web templates using React and CSS.
+
+Education:
+- BS in CS | Heriot-Watt University Dubai (2018 - 2022)

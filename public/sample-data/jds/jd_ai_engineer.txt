@@ -1,0 +1,14 @@
+Role: AI Engineer
+Location: Dubai Internet City, UAE
+Experience: 5+ years
+
+We are building next-generation cognitive applications and need an AI/NLP specialist.
+Required Skills: Python, PyTorch, NLP, LLMs, Vector Databases, Retrieval-Augmented Generation (RAG), Semantic Embeddings.
+Preferred Skills: LangChain, TensorFlow, Docker, HuggingFace Transformers, API Integration.
+Visa Preference: Open (Golden Visa assistance provided for qualified candidates).
+Seniority Level: Senior/Lead.
+
+Key Responsibilities:
+- Implement and optimize RAG pipelines using local embedding models and LLMs.
+- Train, fine-tune, or prompt-engineer generative models for production.
+- Build API integrations between AI systems and MERN microservices.

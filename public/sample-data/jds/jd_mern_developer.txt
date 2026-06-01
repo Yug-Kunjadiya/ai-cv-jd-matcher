@@ -1,0 +1,14 @@
+Role: Full Stack MERN Developer
+Location: Dubai, UAE (Hybrid)
+Experience: 3+ years
+
+We are looking for a Full Stack Developer specializing in the MERN stack.
+Required Skills: React, Node.js, Express.js, MongoDB, JavaScript, Git.
+Preferred Skills: TypeScript, Next.js, Docker, Tailwind CSS.
+Visa Preference: UAE Resident or willing to relocate. Employment visa sponsorship provided.
+Seniority Level: Mid-level.
+
+Key Responsibilities:
+- Design and implement robust backend APIs using Node and Express.
+- Build clean, interactive React user interfaces.
+- Perform MongoDB schema modeling and query optimizations.

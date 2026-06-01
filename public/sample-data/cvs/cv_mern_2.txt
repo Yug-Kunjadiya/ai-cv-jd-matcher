@@ -1,0 +1,22 @@
+Amara Lopez
+Email: amara.l@yahoo.com | Phone: +971 56 123 9845
+Sharjah, UAE | Visa Status: UAE Dependent Visa (Spouse Sponsorship)
+DOB: 05/03/1993 | Passport: A95827361 | Emirates ID: 784-1993-9481726-2
+
+Summary:
+Highly motivated Software Engineer with 5 years of experience in JavaScript web applications. Specializes in Node.js backend development and React frontend integration.
+
+Skills:
+React, Node.js, Express, MongoDB, TypeScript, Next.js, Docker, JavaScript, Git, CSS3, SQL.
+
+Experience:
+- Senior Full Stack Developer at Globex Gulf (Jun 2023 - Present):
+  * Designed scalable microservices in Express.js and Node.js.
+  * Integrated MongoDB database with Mongoose ODM schemas.
+  * Deployed services inside Docker containers to AWS ECS.
+- Software Engineer at WebScale Tech (Jan 2021 - May 2023):
+  * Built interactive React portals utilizing custom hooks.
+  * Coordinated features using Git with feature branching.
+
+Education:
+- BS in Software Engineering | University of Wollongong in Dubai (2016 - 2020)

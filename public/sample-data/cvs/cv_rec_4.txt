@@ -1,0 +1,17 @@
+Lin Cheng
+Email: lin.cheng@datasci.cn | Phone: +971 50 382 9182
+Dubai, UAE | Visa: Requires Sponsorship
+DOB: 28/08/1997 | Passport: L82736451 | Emirates ID: 784-1997-3928174-8
+
+Summary:
+Data Scientist with experience in building machine learning models. Seeking role in HR recruitment analytics.
+
+Skills:
+Python, Statistics, SQL, Pandas, Scikit-learn.
+
+Experience:
+- Data Analyst at Majid Al Futtaim (Jun 2023 - Present):
+  * Created data reports for corporate KPIs.
+
+Education:
+- B.Sc. Statistics | Abu Dhabi University (2019 - 2023)

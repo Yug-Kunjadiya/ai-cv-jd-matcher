@@ -1,0 +1,23 @@
+Sajid Rahman
+Email: sajid.rahman@gmail.com | Phone: +971 50 482 9172
+Location: Dubai Marina, UAE
+DOB: 22/10/1996 | Passport: P48571295 | Emirates ID: 784-1996-8574129-3
+Current Visa: UAE Employment Visa (Active)
+
+Professional Summary:
+Full Stack Developer with 4 years of experience specializing in building web applications using React, Node.js, Express, and MongoDB. Proven track record of developing responsive UIs and optimized REST APIs.
+
+Skills:
+React, Node.js, Express.js, MongoDB, JavaScript, TypeScript, Tailwind CSS, Git, HTML, CSS, Redux, REST APIs.
+
+Work Experience:
+- Full Stack Engineer (MERN) at TechDubai (Jan 2024 - Present):
+  * Built dynamic admin dashboards using React and Tailwind CSS.
+  * Created robust backend RESTful APIs with Express and Node.js.
+  * Optimized MongoDB queries, reducing load times by 20%.
+- Frontend Developer at AppCraft Solutions (Sep 2022 - Dec 2023):
+  * Coded responsive web layouts using React and JavaScript.
+  * Managed code versions using Git and collaborative workflows.
+
+Education:
+- Bachelor of Science in Computer Science | American University of Sharjah (2018 - 2022)

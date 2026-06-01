@@ -1,0 +1,18 @@
+Zara Al-Mansoori
+Email: zara.al@gmail.com | Phone: +971 50 111 2222
+Dubai, UAE | Visa: UAE Golden Visa (10 Years Residency)
+DOB: 01/01/2002 | Passport: Z93827164 | Emirates ID: 784-2002-3928173-9
+
+Summary:
+Junior Frontend enthusiast looking for an entry-level position. Strong foundation in JavaScript, HTML, and CSS. Exposed to React.
+
+Skills:
+JavaScript, React (basic), HTML5, CSS3, Tailwind CSS, Git.
+
+Experience:
+- Frontend Intern at StartUp DXB (Jun 2025 - Dec 2025):
+  * Styled landing pages using Tailwind CSS and HTML.
+  * Maintained repository commits via Git.
+
+Education:
+- Diploma in Web Design | Middlesex University Dubai (2022 - 2025)

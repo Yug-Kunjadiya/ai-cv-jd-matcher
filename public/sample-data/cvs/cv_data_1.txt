@@ -1,0 +1,22 @@
+Dr. Elena Smirnova
+Email: elena.smirnova@datahub.ae | Phone: +971 52 384 1928
+Dubai, UAE | Visa Status: UAE Golden Visa (Specialist/Researcher)
+DOB: 14/11/1989 | Passport: E84920194 | Emirates ID: 784-1989-2837194-5
+
+Summary:
+Data Scientist with 6 years of experience building predictive models and statistical algorithms. Deep expertise in machine learning libraries, SQL databases, and data architectures.
+
+Skills:
+Python, SQL, Machine Learning, Pandas, Scikit-learn, Statistics, PyTorch, TensorFlow, Docker, Git, Spark.
+
+Experience:
+- Senior Data Scientist at Dubai Smart City (Jan 2023 - Present):
+  * Engineered traffic prediction models using Python Scikit-learn.
+  * Optimized complex SQL queries in PostgreSQL, improving data fetch by 40%.
+  * Dockerized model inference endpoints for web API consumption.
+- Data Scientist at Al Futtaim Group (Aug 2020 - Dec 2022):
+  * Conducted customer segmentation using Pandas and machine learning.
+  * Managed version control with Git.
+
+Education:
+- PhD in Applied Statistics | Khalifa University (2017 - 2020)

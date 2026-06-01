@@ -1,0 +1,14 @@
+Role: Senior React Developer
+Location: Sharjah, UAE (Remote-friendly)
+Experience: 5+ years
+
+We need a Senior Frontend Engineer focused on React and modern rendering architectures.
+Required Skills: React, TypeScript, Next.js, Tailwind CSS, State Management, HTML5/CSS3.
+Preferred Skills: Redux Toolkit, Webpack, Testing Library, CI/CD pipelines.
+Visa Preference: UAE Resident. Golden Visa holders highly encouraged to apply.
+Seniority Level: Senior.
+
+Key Responsibilities:
+- Optimize React application load times and rendering performance.
+- Lead frontend architectures using Next.js App Router and Tailwind.
+- Mentor junior frontend developers and review code quality.

@@ -1,0 +1,20 @@
+Lina Al-Fahim
+Email: lina.alfahim@gulftech.ae | Phone: +971 56 392 8172
+Abu Dhabi, UAE | Visa Status: UAE Employment Visa (Active)
+DOB: 02/09/1995 | Passport: L19283746 | Emirates ID: 784-1995-1029384-2
+
+Professional Summary:
+Passionate Frontend Engineer with 5 years experience. Dedicated to crafting fluid, accessible user interfaces in React and TypeScript.
+
+Skills:
+React, TypeScript, Next.js, Tailwind CSS, HTML5, CSS3, Git, Redux, Jest, CI/CD pipelines.
+
+Experience:
+- Senior Frontend Developer at ADIB Technology (Mar 2022 - Present):
+  * Designed customer banking dashboards in React and TypeScript.
+  * Setup CI/CD build actions using Git and GitHub.
+- React Developer at Careem (Jan 2021 - Feb 2022):
+  * Coded mobile-responsive frontend pages with Tailwind.
+
+Education:
+- B.Sc. in Computer Engineering | UAE University (2016 - 2020)

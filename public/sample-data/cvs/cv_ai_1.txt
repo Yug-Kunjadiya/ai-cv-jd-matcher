@@ -1,0 +1,21 @@
+Zayd Al-Khoori
+Email: zayd.alkhoori@ai.ae | Phone: +971 52 192 8374
+Dubai, UAE | Visa Status: UAE Golden Visa (10 Years)
+DOB: 03/03/1998 | Passport: Z10293847 | Emirates ID: 784-1998-3928174-2
+
+Professional Summary:
+AI Research Engineer with 5 years experience. Specialized in Natural Language Processing (NLP), Large Language Models (LLMs), semantic embeddings, and Retrieval-Augmented Generation (RAG).
+
+Skills:
+Python, PyTorch, NLP, LLMs, Vector Databases, Retrieval-Augmented Generation (RAG), Semantic Embeddings, LangChain, TensorFlow, Docker, Git.
+
+Experience:
+- Machine Learning Engineer at Technology Innovation Institute (TII) (Jan 2023 - Present):
+  * Developed and optimized generative RAG models using PyTorch.
+  * Implemented local embedding models (sentence-transformers) with Milvus vector DBs.
+- AI Developer at G42 (Sep 2020 - Dec 2022):
+  * Built semantic search endpoints and integrated them with Node.js APIs.
+  * Dockerized model pipelines.
+
+Education:
+- MS in Artificial Intelligence | Khalifa University (2018 - 2020)

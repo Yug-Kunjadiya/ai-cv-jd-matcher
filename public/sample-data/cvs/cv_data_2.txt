@@ -1,0 +1,20 @@
+Omar Al-Hassan
+Email: omar.hassan@outlook.com | Phone: +971 56 294 1029
+Abu Dhabi, UAE | Visa Status: Requires sponsorship
+DOB: 30/06/1994 | Passport: O98273615 | Emirates ID: 784-1994-3928103-6
+
+Professional Summary:
+Analytical Data Scientist with 5 years of industry experience. Proficient in Python statistical packages, SQL data structures, and deploying machine learning models.
+
+Skills:
+Python, SQL, Machine Learning, Pandas, Scikit-learn, Git, Tableau, Statistics, Docker, R.
+
+Experience:
+- Machine Learning Engineer at Abu Dhabi National Oil Company (ADNOC) (Mar 2022 - Present):
+  * Built pipeline anomalies detection systems with PyTorch and Python.
+  * Queried Teradata DW utilizing advanced SQL queries.
+- Data Analyst at Emaar Properties (Jan 2021 - Feb 2022):
+  * Prepared executive statistical reports using Pandas and Tableau.
+
+Education:
+- MS in Data Science | UAE University (2018 - 2020)

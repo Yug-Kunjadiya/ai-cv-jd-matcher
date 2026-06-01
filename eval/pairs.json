@@ -1,0 +1,182 @@
+[
+  {
+    "cv_id": "cv_mern_1.pdf",
+    "cv_name": "Sajid Rahman",
+    "jd_id": "jd_mern_developer.txt",
+    "jd_title": "Full Stack MERN Developer",
+    "actual": "hire",
+    "predicted": "hire",
+    "fitScore": 100
+  },
+  {
+    "cv_id": "cv_mern_2.pdf",
+    "cv_name": "Amara Lopez",
+    "jd_id": "jd_mern_developer.txt",
+    "jd_title": "Full Stack MERN Developer",
+    "actual": "hire",
+    "predicted": "reject",
+    "fitScore": 52
+  },
+  {
+    "cv_id": "cv_mern_3.pdf",
+    "cv_name": "Vikram Joshi",
+    "jd_id": "jd_mern_developer.txt",
+    "jd_title": "Full Stack MERN Developer",
+    "actual": "reject",
+    "predicted": "reject",
+    "fitScore": 50
+  },
+  {
+    "cv_id": "cv_mern_4.pdf",
+    "cv_name": "Zara Al-Mansoori",
+    "jd_id": "jd_mern_developer.txt",
+    "jd_title": "Full Stack MERN Developer",
+    "actual": "reject",
+    "predicted": "reject",
+    "fitScore": 50
+  },
+  {
+    "cv_id": "cv_data_1.pdf",
+    "cv_name": "Dr. Elena Smirnova",
+    "jd_id": "jd_data_scientist.txt",
+    "jd_title": "Data Scientist",
+    "actual": "hire",
+    "predicted": "hire",
+    "fitScore": 100
+  },
+  {
+    "cv_id": "cv_data_2.pdf",
+    "cv_name": "Omar Al-Hassan",
+    "jd_id": "jd_data_scientist.txt",
+    "jd_title": "Data Scientist",
+    "actual": "hire",
+    "predicted": "hire",
+    "fitScore": 100
+  },
+  {
+    "cv_id": "cv_data_3.pdf",
+    "cv_name": "Deepika Sen",
+    "jd_id": "jd_data_scientist.txt",
+    "jd_title": "Data Scientist",
+    "actual": "reject",
+    "predicted": "hire",
+    "fitScore": 81
+  },
+  {
+    "cv_id": "cv_data_4.pdf",
+    "cv_name": "John Miller",
+    "jd_id": "jd_data_scientist.txt",
+    "jd_title": "Data Scientist",
+    "actual": "reject",
+    "predicted": "reject",
+    "fitScore": 50
+  },
+  {
+    "cv_id": "cv_rec_1.pdf",
+    "cv_name": "Fatima Al-Jaber",
+    "jd_id": "jd_tech_recruiter.txt",
+    "jd_title": "Technical Recruiter",
+    "actual": "hire",
+    "predicted": "hire",
+    "fitScore": 100
+  },
+  {
+    "cv_id": "cv_rec_2.pdf",
+    "cv_name": "Sarah Jenkins",
+    "jd_id": "jd_tech_recruiter.txt",
+    "jd_title": "Technical Recruiter",
+    "actual": "hire",
+    "predicted": "hire",
+    "fitScore": 100
+  },
+  {
+    "cv_id": "cv_rec_3.pdf",
+    "cv_name": "Rahul Mehta",
+    "jd_id": "jd_tech_recruiter.txt",
+    "jd_title": "Technical Recruiter",
+    "actual": "reject",
+    "predicted": "reject",
+    "fitScore": 50
+  },
+  {
+    "cv_id": "cv_rec_4.pdf",
+    "cv_name": "Lin Cheng",
+    "jd_id": "jd_tech_recruiter.txt",
+    "jd_title": "Technical Recruiter",
+    "actual": "reject",
+    "predicted": "reject",
+    "fitScore": 50
+  },
+  {
+    "cv_id": "cv_react_1.pdf",
+    "cv_name": "Michael Connor",
+    "jd_id": "jd_react_developer.txt",
+    "jd_title": "Senior React Developer",
+    "actual": "hire",
+    "predicted": "hire",
+    "fitScore": 100
+  },
+  {
+    "cv_id": "cv_react_2.pdf",
+    "cv_name": "Lina Al-Fahim",
+    "jd_id": "jd_react_developer.txt",
+    "jd_title": "Senior React Developer",
+    "actual": "hire",
+    "predicted": "hire",
+    "fitScore": 100
+  },
+  {
+    "cv_id": "cv_react_3.pdf",
+    "cv_name": "Karan Malhotra",
+    "jd_id": "jd_react_developer.txt",
+    "jd_title": "Senior React Developer",
+    "actual": "reject",
+    "predicted": "reject",
+    "fitScore": 50
+  },
+  {
+    "cv_id": "cv_react_4.pdf",
+    "cv_name": "Layla Belhadj",
+    "jd_id": "jd_react_developer.txt",
+    "jd_title": "Senior React Developer",
+    "actual": "reject",
+    "predicted": "hire",
+    "fitScore": 82
+  },
+  {
+    "cv_id": "cv_ai_1.pdf",
+    "cv_name": "Zayd Al-Khoori",
+    "jd_id": "jd_ai_engineer.txt",
+    "jd_title": "AI Engineer",
+    "actual": "hire",
+    "predicted": "hire",
+    "fitScore": 100
+  },
+  {
+    "cv_id": "cv_ai_2.pdf",
+    "cv_name": "Sophia Patel",
+    "jd_id": "jd_ai_engineer.txt",
+    "jd_title": "AI Engineer",
+    "actual": "hire",
+    "predicted": "reject",
+    "fitScore": 48
+  },
+  {
+    "cv_id": "cv_ai_3.pdf",
+    "cv_name": "Tarek Refaat",
+    "jd_id": "jd_ai_engineer.txt",
+    "jd_title": "AI Engineer",
+    "actual": "reject",
+    "predicted": "reject",
+    "fitScore": 50
+  },
+  {
+    "cv_id": "cv_ai_4.pdf",
+    "cv_name": "Melissa Vance",
+    "jd_id": "jd_ai_engineer.txt",
+    "jd_title": "AI Engineer",
+    "actual": "reject",
+    "predicted": "reject",
+    "fitScore": 45
+  }
+]

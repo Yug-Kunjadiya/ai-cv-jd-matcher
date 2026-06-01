@@ -1,0 +1,21 @@
+Michael Connor
+Email: michael.connor@react.dev | Phone: +971 52 827 3819
+Dubai, UAE | Visa: UAE Golden Visa (10 Years Residency)
+DOB: 12/03/1990 | Passport: C82736154 | Emirates ID: 784-1990-2918273-4
+
+Summary:
+Senior Frontend Developer with 6 years experience specializing in UI development. Expert in React, TypeScript, Next.js, and CSS frameworks like Tailwind.
+
+Skills:
+React, TypeScript, Next.js, Tailwind CSS, State Management, HTML5, CSS3, Redux Toolkit, Webpack, Testing Library, Git.
+
+Experience:
+- Lead Frontend Developer at Emirates Group (Jan 2023 - Present):
+  * Architected corporate travel booking pages using Next.js App Router.
+  * Standardized styling systems with Tailwind CSS, reducing CSS bundle size by 30%.
+- Senior React Developer at Noon.com (Feb 2020 - Dec 2022):
+  * Refactored cart state using Redux Toolkit.
+  * Conducted testing using React Testing Library.
+
+Education:
+- BS in Web Development | Heriot-Watt University Dubai (2015 - 2019)
